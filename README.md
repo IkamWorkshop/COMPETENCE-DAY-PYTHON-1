@@ -1,0 +1,2 @@
+# COMPETENCE-DAY-PYTHON-1
+Sentra Python1 Aseli
